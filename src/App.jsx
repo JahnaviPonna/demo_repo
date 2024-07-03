@@ -29,7 +29,7 @@ const siteProps = {
   email: "jahnavispponna.com",
   gitHub: "microsoft",
   instagram: "microsoft",
-  linkedIn: "satyanadella",
+  linkedIn: "https://www.linkedin.com/in/jahnavi-sushma-priya-ponna-2785b9292/",
   medium: "",
   twitter: "microsoft",
   youTube: "Code",
